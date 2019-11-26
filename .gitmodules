@@ -1,0 +1,3 @@
+[submodule "formation-esnext"]
+	path = formation-esnext
+	url = https://gitlab.com/lionel.meunier/formation-esnext.git
