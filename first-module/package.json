@@ -11,7 +11,7 @@
   "author": "Nicolas",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "serve": "^11.2.0"
   },
   "devDependencies": {
